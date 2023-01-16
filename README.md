@@ -43,6 +43,14 @@ The sales agent can input the lifestyle indicators such as Age, Height, Weight, 
 * Pi estimation with Monte Carlo method
 * Read files sample
 * Student Data
+
+![](https://github.com/VinniGuan/Yingyan-Vinni-Guan-Portfolio/blob/main/images/Python3.png)
 ![](https://github.com/VinniGuan/Yingyan-Vinni-Guan-Portfolio/blob/main/images/Python1.png)
 ![](https://github.com/VinniGuan/Yingyan-Vinni-Guan-Portfolio/blob/main/images/Python2.png)
-        
+
+# JMP Project
+![](https://github.com/VinniGuan/Yingyan-Vinni-Guan-Portfolio/blob/main/images/JMP.png)
+
+# [HTML Project]()
+Link: 
+![](https://github.com/VinniGuan/Yingyan-Vinni-Guan-Portfolio/blob/main/images/HTML.png)
