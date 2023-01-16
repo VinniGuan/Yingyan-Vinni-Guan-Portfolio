@@ -21,4 +21,7 @@ To calculate the predicted probability of heart disease based on key lifestyle i
 
 #### Data
 The dataset consists of 70,000 records of patient’s data in 12 features, such as age, gender, systolic blood pressure, diastolic blood pressure, and etc. The target class "cardio" equals to 1, when patient has cardiovascular disease, and if it is 0, the patient does not have heart disease.
+
+![](https://github.com/VinniGuan/Yingyan-Vinni-Guan-Portfolio/blob/main/images/Shiny1.png)
+![](https://github.com/VinniGuan/Yingyan-Vinni-Guan-Portfolio/blob/main/images/Shiny2.png)
         
