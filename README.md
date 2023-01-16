@@ -1,4 +1,4 @@
-# Yingyan(Vinni)Guan Portfolio
+# Yingyan-Vinni-Guan-Portfolio
 ## Examples of Programming Project
 ### * R
 ### * Python
