@@ -1,5 +1,8 @@
 # Yingyan-Vinni-Guan-Portfolio
-Example Data Sceience Portfolio
+### * R
+### * Python
+### * JMP
+### * HTML
 
 # [R: Shiny App-CardiovascularDisease](https://github.com/VinniGuan/CVS-disease-R-Shiny-App-Project)
 
