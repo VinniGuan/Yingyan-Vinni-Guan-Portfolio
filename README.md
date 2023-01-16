@@ -24,4 +24,16 @@ The dataset consists of 70,000 records of patient’s data in 12 features, such 
 
 ![](https://github.com/VinniGuan/Yingyan-Vinni-Guan-Portfolio/blob/main/images/Shiny1.png)
 ![](https://github.com/VinniGuan/Yingyan-Vinni-Guan-Portfolio/blob/main/images/Shiny2.png)
+
+#### Methodology Selection
+The data was examined for missing values and outliers. We further transformed the data using min-max normalization so that there was no single predictor that dominated our results. We looked for variables that had a strong correlation (>0.85) with each other and dropped one of the said variables. We looked for variables that had very little variation as this would not help us explain he overall variance of our model. We have utilized descriptive analysis to understand the distributions of our predictors (lifestyle indicators) as well as our target variable (whether a person gets heart disease or not). We utilized predictive analytics to predict the probability of a heart disease based on given key lifestyle indicators.
+
+#### Model Building
+For our analysis, we used a Logistic Regression model for classification, which provided the greatest accuracy among other models tested. Another benefit of the logistic regression model is its interpretability. Clients would be able to understand the impact of each predictor/lifestyle indicator on their cardiovascular health.
+
+#### Functionality
+The sales agent can input the lifestyle indicators such as Age, Height, Weight, Cholesterol, Systolic blood pressure, Diastolic blood pressure, Glucose, Smoking, Alcohol and Physical activity. Based on these parameters, the app will predict the probability of heart disease for that individual. The user can also explore various visuals such as boxplots plotting the numeric variables against the target variable (1-heart disease 0- no heart disease) as well as bar plots of categorical variables. These plots will help the user understand the distribution of these variables within the existing dataset. If we had more time and experience, we would have liked to build an optimization model. By using the probability of heart disease as an objective function, we could guide a given client on how he or she can reduce their chances of heart disease below a certain threshold by reducing certain parameters by a defined amount.
+
+#### GUI Design and Functionality
+![](https://github.com/VinniGuan/Yingyan-Vinni-Guan-Portfolio/blob/main/images/Shiny3.png)
         
