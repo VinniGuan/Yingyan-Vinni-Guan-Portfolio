@@ -1,7 +1,7 @@
 # Yingyan-Vinni-Guan-Portfolio
 Example Data Sceience Portfolio
 
-# R-Shiny-CardiovascularDisease
+# R Shiny App-CardiovascularDisease
 
 This R project is for MGMT 590 - Using R for Analytics at Krannert School of Management, Purdue University, developed by team: Jiayu Zhang, Jason Chen, Vinni Guan and Rohit Soans.
 
