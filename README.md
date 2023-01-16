@@ -38,6 +38,11 @@ The sales agent can input the lifestyle indicators such as Age, Height, Weight, 
 ![](https://github.com/VinniGuan/Yingyan-Vinni-Guan-Portfolio/blob/main/images/Shiny3.png)
 
 
-# [Python Projects]()
+# [Python Projects](https://github.com/VinniGuan/Yingyan-Guan-Python-Projects)
+* Bunce Ball
+* Pi estimation with Monte Carlo method
+* Read files sample
+* Student Data
+
 
         
