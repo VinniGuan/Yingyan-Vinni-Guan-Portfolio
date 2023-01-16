@@ -1,8 +1,10 @@
 # Yingyan-Vinni-Guan-Portfolio
+## Examples of Programming Project
 ### * R
 ### * Python
 ### * JMP
 ### * HTML
+#### Click the title of each project to access code file in GitHub
 
 # [R: Shiny App-CardiovascularDisease](https://github.com/VinniGuan/CVS-disease-R-Shiny-App-Project)
 
