@@ -13,12 +13,12 @@ YouTube : https://www.youtube.com/watch?v=bvZbR4dr_as
 
 Shiny Template referenced from: https://mogali.shinyapps.io/attritionanalysis/
 
-### Business Problem
+#### Business Problem
 The UnitedHealthcare Consumer Sentiment Survey showed that only 9% of Americans surveyed “showed an understanding” of four basic health insurance terms — health plan premium, health plan deductible, out-of- pocket maximum and co-insurance. Due to the lack of understanding of Insurance Products, most people are less likely to switch their scheme and end up simply renewing their scheme with their current provider, even though those products maybe mispriced or unsuitable. This is one of the key challenges sales teams of health insurance companies face. Hence new customer acquisition in this industry is both difficult and expensive.
 
-### Analytics Problem
+#### Analytics Problem
 To calculate the predicted probability of heart disease based on key lifestyle indicators such as Age, Height, Weight, Cholesterol, Systolic blood pressure, Diastolic blood pressure, Glucose, Smoking, Alcohol and Physical activity.
 
-### Data
+#### Data
 The dataset consists of 70,000 records of patient’s data in 12 features, such as age, gender, systolic blood pressure, diastolic blood pressure, and etc. The target class "cardio" equals to 1, when patient has cardiovascular disease, and if it is 0, the patient does not have heart disease.
         
