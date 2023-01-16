@@ -1,7 +1,7 @@
 # Yingyan-Vinni-Guan-Portfolio
 Example Data Sceience Portfolio
 
-# [R Shiny App-CardiovascularDisease](https://github.com/VinniGuan/CVS-disease-R-Shiny-App-Project)
+# [R: Shiny App-CardiovascularDisease](https://github.com/VinniGuan/CVS-disease-R-Shiny-App-Project)
 
 This R project is for MGMT 590 - Using R for Analytics at Krannert School of Management, Purdue University, developed by team: Jiayu Zhang, Jason Chen, Vinni Guan and Rohit Soans.
 
@@ -36,4 +36,8 @@ The sales agent can input the lifestyle indicators such as Age, Height, Weight, 
 
 #### GUI Design and Functionality
 ![](https://github.com/VinniGuan/Yingyan-Vinni-Guan-Portfolio/blob/main/images/Shiny3.png)
+
+
+# [Python Projects]()
+
         
