@@ -54,5 +54,5 @@ The sales agent can input the lifestyle indicators such as Age, Height, Weight, 
 
 
 # [HTML Project](https://github.com/VinniGuan/Webpage-of-Christie-and-Chris-s-Cooking-Cabin)
-Link: 
-![](https://github.com/VinniGuan/Yingyan-Vinni-Guan-Portfolio/blob/main/images/HTML.png)
+Link: https://vinniguan.github.io/Webpage-of-Christie-and-Chris-s-Cooking-Cabin/
+![](https://github.com/VinniGuan/Yingyan-Vinni-Guan-Portfolio/blob/main/images/HTML1.png)
