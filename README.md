@@ -54,7 +54,7 @@ The sales agent can input the lifestyle indicators such as Age, Height, Weight, 
 ![](/images/Python2.png)
 
 
-# JMP Project
+# JMP and Python Project
 ![](/images/JMP.png)
 
 
