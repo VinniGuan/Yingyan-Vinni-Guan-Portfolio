@@ -51,6 +51,9 @@ Without any limitations, our ideal experiment would include randomly picking sup
 
 We ran a regression analysis and found that discounts do not always uniformly impact sales. To our surprise, discounts actually decreased sales by a significant amount in some cases.  For example, in the Central region sales went down when discounts were offered for Technology and Furniture, but increased for Office Supplies. We are concluding that there is a difference in sales for each region when there is a discount, and are rejecting the null hypothesis. We are also concluding that superstores must be cautious with blanket discounts across all categories and regions, and should target higher discounts in regions where the discount has a positive impact. 
 ![](/images/Superstore1.png)
+![](/images/Superstore2.png)
+![](/images/Superstore3.png)
+![](/images/Superstore4.png)
 
 # [Python: Bunce Ball & Pi estimation with Monte Carlo Method](https://github.com/VinniGuan/Yingyan-Guan-Python-Projects)
 * Bunce Ball
