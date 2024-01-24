@@ -41,12 +41,20 @@ The sales agent can input the lifestyle indicators such as Age, Height, Weight, 
 #### GUI Design and Functionality
 ![](/images/Shiny3.png)
 
+# [Python: Superstore Sales](https://github.com/VinniGuan/Yingyan-Guan-Python-Projects)
+Our data set is about superstore data. It includes data from a superstore with several variables, including product information and information about the customer. The business question we are answering is: Does having a discount on each product category, Technology, Furniture, and Office Supplies, respectively, make a difference in sales for each region? We think this question is important because it can help the superstores decide which regions they should target with more products for a certain category, like more products in Technology, for example. 
+To evaluate our question, we are testing each region to see if there is a difference in sales when there is a discount compared to when there is no discount. We’re going to run a regression analysis for discounts, regions, and categories. We will also gather some descriptive statistics and do an ANOVA test to show the difference in sales between the regions. 
 
-# [Python Projects](https://github.com/VinniGuan/Yingyan-Guan-Python-Projects)
+Our null hypothesis is that there will be no difference in sales of a certain category if there is a discount for each region. Our alternative hypothesis is that there is a difference in sales of a certain category given a discount for each region. 
+There is the possibility of multiple outcomes, two of which are that all the regions might respond positively to discounts, or that all the regions respond negatively to discounts. There is also a chance that some regions will respond positively to discounts and others won’t. There might be an interaction effect between the region and category, which would mean that a discount on Office Supplies in one region might lead to an increase in sales there, but the same would not happen in another region. 
+Without any limitations, our ideal experiment would include randomly picking superstores within each region, and implementing discount strategies. We would put a discount on some products and see if sales change, then we would have superstores within each region where there are no discounts to compare against the superstores in the same region with discounts.
+
+We ran a regression analysis and found that discounts do not always uniformly impact sales. To our surprise, discounts actually decreased sales by a significant amount in some cases.  For example, in the Central region sales went down when discounts were offered for Technology and Furniture, but increased for Office Supplies. We are concluding that there is a difference in sales for each region when there is a discount, and are rejecting the null hypothesis. We are also concluding that superstores must be cautious with blanket discounts across all categories and regions, and should target higher discounts in regions where the discount has a positive impact. 
+
+
+# [Python: Bunce Ball & Pi estimation with Monte Carlo Method](https://github.com/VinniGuan/Yingyan-Guan-Python-Projects)
 * Bunce Ball
 * Pi estimation with Monte Carlo method
-
-![](/images/Python3.png)
 ![](/images/Python1.png)
 ![](/images/Python2.png)
 
