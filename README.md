@@ -41,7 +41,7 @@ The sales agent can input the lifestyle indicators such as Age, Height, Weight, 
 #### GUI Design and Functionality
 ![](/images/Shiny3.png)
 
-# [Python: Superstore Sales](https://github.com/VinniGuan/Yingyan-Guan-Python-Projects)
+# [Python: Superstore Sales](https://github.com/VinniGuan/Superstore-Sales-Python)
 Our data set is about superstore data. It includes data from a superstore with several variables, including product information and information about the customer. The business question we are answering is: Does having a discount on each product category, Technology, Furniture, and Office Supplies, respectively, make a difference in sales for each region? We think this question is important because it can help the superstores decide which regions they should target with more products for a certain category, like more products in Technology, for example. 
 To evaluate our question, we are testing each region to see if there is a difference in sales when there is a discount compared to when there is no discount. We’re going to run a regression analysis for discounts, regions, and categories. We will also gather some descriptive statistics and do an ANOVA test to show the difference in sales between the regions. 
 
